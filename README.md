@@ -1,4 +1,5 @@
-# C-Project
+# C Project
+
 
 # C++ Project
-## 3D tic-tac-toe 
+* 3D tic-tac-toe 
