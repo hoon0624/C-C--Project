@@ -2,4 +2,5 @@
 * Binary converter
 
 # C++ Project
-* 3D tic-tac-toe 
+* 3D tic-tac-toe
+* Black Jack
